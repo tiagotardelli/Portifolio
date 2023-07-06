@@ -9,8 +9,8 @@
     --fonte-principal: 'Krono One', sans-serif;
     --fonte-secundaria: 'Montserrat', sans-serif;
 
-    --tamanho-fonte-principal: 24px;
-    --tamanho-fonte-secundaria: 36px;
+    --tamanho-fonte-principal: 1.5rem;
+    --tamanho-fonte-secundaria: 2.25rem;
 }
 
 * {
